@@ -1,0 +1,36 @@
+.title {
+    padding-top: 20px;
+    display:flex;
+    justify-content: center;
+    color:red;
+    font-family: Iceland;
+    font-size: 30px;
+}
+
+.bignumber {
+    display: flex;
+    color:white;
+    font-family: Iceland;
+    font-size: 300px;
+    justify-content: center;
+}
+
+.range {
+    display:grid;
+    grid-template-columns: auto auto auto;
+    gap:40px;
+    justify-content: center;
+    padding-right: 5px;
+}
+
+.Ten,.Twenty,.Hundred {
+    background-color: blanchedalmond;
+    color:blue;
+    border:none;
+    border-radius:5px;
+    height:85px;
+    width:250px;
+    font-family: Iceland;
+    font-size:40px;
+}
+
