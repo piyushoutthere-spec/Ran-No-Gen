@@ -3,14 +3,14 @@
     display:flex;
     justify-content: center;
     color:red;
-    font-family: Iceland;
+    font-family: Orbitron;
     font-size: 30px;
 }
 
 .bignumber {
     display: flex;
     color:white;
-    font-family: Iceland;
+    font-family: Orbitron;
     font-size: 300px;
     justify-content: center;
 }
@@ -30,7 +30,7 @@
     border-radius:5px;
     height:85px;
     width:250px;
-    font-family: Iceland;
+    font-family: Orbitron;
     font-size:40px;
 }
 
@@ -51,6 +51,6 @@
     border-radius:5px;
     height:85px;
     width:250px;
-    font-family:Iceland;
+    font-family:Orbitron;
     font-size: 40px;
 }
