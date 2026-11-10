@@ -34,3 +34,23 @@
     font-size:40px;
 }
 
+.Ten:hover,.Twenty:hover,.Hundred:hover,.Thousand:hover,.fivek:hover,.tenk:hover {
+    transition:0.2s;
+    background-color:aquamarine;
+}
+
+.Ten:active,.Twenty:active,.Hundred:active,.Thousand:active,.fivek:active,.tenk:active {
+    transition: 0.2s;
+    background-color: blueviolet;
+}
+
+.Thousand,.fivek,.tenk {
+    background-color: blanchedalmond;
+    color:blue;
+    border:none;
+    border-radius:5px;
+    height:85px;
+    width:250px;
+    font-family:Iceland;
+    font-size: 40px;
+}
