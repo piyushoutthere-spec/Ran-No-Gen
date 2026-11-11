@@ -43,3 +43,20 @@ tenk.addEventListener("click",tenkfunction);
 function tenkfunction(){
     number.textContent = Math.floor(Math.random()*10001);
 }
+
+let copy = document.getElementById("copybtn");
+let reset = document.getElementById("resetbtn");
+
+//copy feature
+copy.addEventListener("click",copyfunction);
+
+function copyfunction() {
+    navigator.clipboard.writeText(number.textContent);
+}
+
+//reset feature
+reset.addEventListener("click",resetfunction);
+
+function resetfunction() {
+    number.textContent = 0;
+}

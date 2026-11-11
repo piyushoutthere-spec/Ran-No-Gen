@@ -1,3 +1,9 @@
+body {
+    background-image: url(bgforran.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .title {
     padding-top: 20px;
     display:flex;
@@ -53,4 +59,32 @@
     width:250px;
     font-family:Orbitron;
     font-size: 40px;
+}
+
+.extra {
+    display:flex;
+    justify-content: center;
+    gap:30px;
+    margin-top: 30px;
+}
+
+.copy,.reset {
+    background-color: burlywood;
+    color:blue;
+    border:none;
+    border-radius:5px;
+    height:50px;
+    width:180px;
+    font-family:'Orbitron';
+    font-size:19px;
+    cursor:pointer;
+}
+
+.copy:hover, .reset:hover {
+    transition:0.2s;
+    background-color: blueviolet;
+}
+
+.copy:active, .reset:active {
+    background-color:purple;
 }
