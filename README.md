@@ -6,8 +6,9 @@ I built a simple and interactive random number generator website which gets you 
 you get and use it where you want. Also there is a reset button which resets the current number to 0. 
 
 ## Screenshots
-<img width="1516" height="726" alt="image" src="https://github.com/user-attachments/assets/8ff5fd9a-aa92-4d9c-88cb-a1d4dcbbe801" />
-<img width="1517" height="722" alt="image" src="https://github.com/user-attachments/assets/98b9790b-d853-40d5-8ffa-28e6fc886adf" />
+<img width="1503" height="721" alt="image" src="https://github.com/user-attachments/assets/7c2f2709-a2a8-4a94-99f4-a503a68f7950" />
+<img width="1496" height="717" alt="image" src="https://github.com/user-attachments/assets/e38be9db-6416-48ec-853f-d98d48ba0a49" />
+
 
 ## Tech Stacks
 - HTML5
