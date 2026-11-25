@@ -1,5 +1,5 @@
 body {
-    background-image: url(bgforran.png);
+    background-image: url(Screenshot\ 2026-11-25\ 005336.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,14 +8,14 @@ body {
     padding-top: 20px;
     display:flex;
     justify-content: center;
-    color:red;
+    color:darkblue;
     font-family: Orbitron;
     font-size: 30px;
 }
 
 .bignumber {
     display: flex;
-    color:white;
+    color:gray;
     font-family: Orbitron;
     font-size: 300px;
     justify-content: center;
@@ -30,8 +30,8 @@ body {
 }
 
 .Ten,.Twenty,.Hundred {
-    background-color: blanchedalmond;
-    color:blue;
+    background-color: gray;
+    color:black;
     border:none;
     border-radius:5px;
     height:85px;
@@ -42,7 +42,7 @@ body {
 
 .Ten:hover,.Twenty:hover,.Hundred:hover,.Thousand:hover,.fivek:hover,.tenk:hover {
     transition:0.2s;
-    background-color:aquamarine;
+    background-color:#0D0D0D;
 }
 
 .Ten:active,.Twenty:active,.Hundred:active,.Thousand:active,.fivek:active,.tenk:active {
@@ -51,8 +51,8 @@ body {
 }
 
 .Thousand,.fivek,.tenk {
-    background-color: blanchedalmond;
-    color:blue;
+    background-color: gray;
+    color:black;
     border:none;
     border-radius:5px;
     height:85px;
@@ -69,7 +69,7 @@ body {
 }
 
 .copy,.reset {
-    background-color: burlywood;
+    background-color: gray;
     color:blue;
     border:none;
     border-radius:5px;
